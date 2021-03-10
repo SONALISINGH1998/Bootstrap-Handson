@@ -1,0 +1,16 @@
+.col-md-8{
+    background-color: rgb(219, 231, 226);
+}
+
+.col-md-4{
+    background-color: rgb(238, 229, 247);
+}
+.material-icons {
+    vertical-align: middle;
+    -ms-text-combine-horizontal: all;
+    }
+    @media (max-width: 600px) {
+    .material-icons {
+    display: none; /* This is how it looks on desktop */
+    }
+    }

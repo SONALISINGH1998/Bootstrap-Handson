@@ -1,0 +1,10 @@
+i:hover{
+    color: red;
+    cursor: pointer;
+}
+.card-deck{
+
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
